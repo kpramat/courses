@@ -16,7 +16,7 @@
   * Start working as full-stack entry-level application developers
   
 
-## Program Overview 
+## Program structure 
 ![](media/process.jpg)
 
 
