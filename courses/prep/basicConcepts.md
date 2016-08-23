@@ -20,7 +20,7 @@
 [Source: wikipedia] (https://en.wikipedia.org/wiki/Computer_program)
 
 
-## Software, Application Software and Hardware
+## Software, System Software and Hardware
 ![](media/software.png)
 
 
