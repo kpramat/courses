@@ -17,7 +17,7 @@
   
 
 ## Program Overview 
-![](media/process.jpg)
+![](../media/process.jpg)
 
 
 ## Technologies 
