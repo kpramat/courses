@@ -17,7 +17,16 @@
   
 
 ## Program structure 
-![](media/process.jpg)
+```md
+  Preparatory weeks (2 wks)
+  -- Basic coding skills test --
+  
+  Coding bootcamp session I (6 wks)
+  -- Developer certificate FND --
+  
+  Coding bootcamp session II (6 wks)
+-- Developer certificate --
+```
 
 
 ## Technologies 
