@@ -29,17 +29,21 @@
 * WEEK 2: Further Test Driven Development and Object Oriented Programming
 * WEEK 3: Introduction to Web Development
 * WEEK 4: Databases and User Management
-```--- Deadline: Project 1 ----```
+```md
+--- Deadline: Project 1 ----```
+
 * WEEK 5: Front-End Technologies
 * WEEK 6: Project Week
-```--- Deadline: Project 2 ----```
+```md
+--- Deadline: Project 2 ----```
 * WEEK 7: Other Programming Languages and MVC Frameworks
 * WEEK 8: Further JavaScript
 * WEEK 9: Further Java/C#
 * WEEK 10: End-user driven design & development - UX & UI principles
 * WEEK 11: Project & Technical Management
 * WEEK 12: Final Project Implementation
-```--- Deadline: Final Project ----```
+```md
+--- Deadline: Final Project ----```
 
 
 ## Tools and material
