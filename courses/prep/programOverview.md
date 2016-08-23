@@ -25,7 +25,7 @@
   -- Developer certificate FND --
   
   Coding bootcamp session II (6 wks)
--- Developer certificate --
+  -- Developer certificate --
 ```
 
 
