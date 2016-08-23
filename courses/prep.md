@@ -23,8 +23,8 @@
 
 
 ## Application Development Methodologies
-* [Introduction to SQL] (prep/sql.md)
-* [Introduction to SQL] (prep/sql.md)
+* [The application development process] (prep/methodologies.md)
+* [Analysis and Design Tools] (prep/analysisDesignTools.md)
 
 
 ## Application Development Tools
