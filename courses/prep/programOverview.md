@@ -30,12 +30,14 @@
 * WEEK 3: Introduction to Web Development
 * WEEK 4: Databases and User Management
 ```md
---- Deadline: Project 1 ----```
+--- Deadline: Project 1 ----
+```
 
 * WEEK 5: Front-End Technologies
 * WEEK 6: Project Week
 ```md
---- Deadline: Project 2 ----```
+--- Deadline: Project 2 ----
+```
 * WEEK 7: Other Programming Languages and MVC Frameworks
 * WEEK 8: Further JavaScript
 * WEEK 9: Further Java/C#
@@ -43,7 +45,8 @@
 * WEEK 11: Project & Technical Management
 * WEEK 12: Final Project Implementation
 ```md
---- Deadline: Final Project ----```
+--- Deadline: Final Project ----
+```
 
 
 ## Tools and material
