@@ -32,7 +32,7 @@
 
 
 ## Technologies 
-![](media/technologies.jpg)
+![](media/technologies.png)
 
 
 ## Curriculum 
