@@ -1,7 +1,7 @@
 # Coding Bootcamp: Preparatory material
 ## Welcome
 * [Program Overview](prep/programOverview.md)
-* [Basic Concepts and Terminology] (prep/basicConcepts.md)
+* [Basic Concepts and Terms] (prep/basicConcepts.md)
 * [Introduction to Software Architectures] (prep/introArchitectures.md)
 
 
@@ -17,7 +17,7 @@
 * [Exercise: Write your second program in Python] (prep/exercise3Python2.md)
 
 
-## Databases - Basic Concepts 
+## Introduction to Databases 
 * [Relational Databases](prep/introDB.md)
 * [Introduction to SQL] (prep/sql.md)
 
