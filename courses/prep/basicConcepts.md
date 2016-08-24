@@ -7,7 +7,7 @@
 [Source: wikipedia] (https://en.wikipedia.org/wiki/Software)
 
 
-## Computer Program
+## Computer program
 * A computer program is a collection of instructions that performs a specific task when executed by a computer
 * A computer requires programs to function, and typically executes the program's instructions in a central processing unit
 * A computer program is usually written by a computer programmer in a programming language
@@ -20,7 +20,19 @@
 [Source: wikipedia] (https://en.wikipedia.org/wiki/Computer_program)
 
 
-## Software, System Software and Hardware
+## Software, system software and hardware
 ![](media/software.png)
 
 
+## Application software
+* An application program (app or application for short) is a computer program designed to perform a group of coordinated functions, tasks, or activities for the benefit of the user
+* Examples of an application include a word processor, a spreadsheet, an accounting application, a web browser, a media player, an aeronautical flight simulator, a console game or a photo editor
+* The collective noun application software refers to all applications collectively
+* This contrasts with system software, which is mainly involved with running the computer
+* Applications may be bundled with the computer and its system software or published separately, and may be coded as proprietary, open-source or university projects
+* Apps built for mobile platforms are called mobile apps
+
+[Source: wikipedia] (https://en.wikipedia.org/wiki/Application_software)
+
+
+## Software architecture

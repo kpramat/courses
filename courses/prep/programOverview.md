@@ -10,7 +10,9 @@
   * Developed a project portfolio containing at least three full-stack applications and various exercises
   * Learnt to use the latest tools and concepts in application developmentwork
   * Worked in a team to design and develop a larger-scale application 
+
   
+## At the end...
 * Building on the acquired knowledge, participants will be able to: 
   * Develop full-stack applications using the C# or Java programming languages
   * Start working as full-stack entry-level application developers
@@ -35,7 +37,7 @@
 ![](media/technologies.png)
 
 
-## Curriculum 
+## Curriculum (1/2)
 * WEEK 1: Test Driven Development and Object-Oriented Programming
 * WEEK 2: Further Test Driven Development and Object Oriented Programming
 * WEEK 3: Introduction to Web Development
@@ -49,6 +51,9 @@
 ```md
 --- Deadline: Project 2 ----
 ```
+
+
+## Curriculum (2/2)
 * WEEK 7: Other Programming Languages and MVC Frameworks
 * WEEK 8: Further JavaScript
 * WEEK 9: Further Java/C#
